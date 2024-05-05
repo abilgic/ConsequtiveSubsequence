@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsequtiveSubsequence", "ConsequtiveSubsequence\ConsequtiveSubsequence.csproj", "{FC07DE06-B5EE-49CC-8AA7-B977ADCA064F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC07DE06-B5EE-49CC-8AA7-B977ADCA064F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC07DE06-B5EE-49CC-8AA7-B977ADCA064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC07DE06-B5EE-49CC-8AA7-B977ADCA064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC07DE06-B5EE-49CC-8AA7-B977ADCA064F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C076C8-9017-455D-B037-DF7D81750C4E}
+	EndGlobalSection
+EndGlobal
